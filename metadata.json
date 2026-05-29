@@ -1,0 +1,6 @@
+{
+  "name": "JobSurvive AI Score & Roadmap",
+  "description": "A personalized, AI-driven career transition specialist that analyzes your role and resume to provide a future-proof development plan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
